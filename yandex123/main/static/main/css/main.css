@@ -1,0 +1,19 @@
+body {
+    background: white;
+    overflow: scroll;
+}
+
+
+
+#main{
+    padding: 300px;
+    background: -webkit-linear-gradient(45deg, #d13881,#ed8f6b,#e8dca4);
+    background: linear-gradient(45deg, #d13881,#ed8f6b,#e8dca4);
+    min-height: 100%;
+}
+
+
+#hr{
+    display: flex;
+    padding: 4px
+}
