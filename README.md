@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Запуск
 * чтобы запустить локальный сервер, нужно сначала обратиться к папке yandex123, а затем использовать файл manage.py
 ```commandline
-cd mysite
+cd yandex123
 python manage.py runserver
 ```
 
